@@ -1,0 +1,6 @@
+runtime "ruby"
+exec "scrape.rb"
+
+gem 'nokogiri', '~> 1.5.9'
+
+remote
